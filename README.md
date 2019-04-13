@@ -31,17 +31,19 @@
 4. 设置小程序 appid 和 secret
    <img src="https://cdn.it120.cc/apifactory/2019/04/12/dcfd73bf82d6dc77aaedaa3b313ce5f5.png">
 5. 数据维护
-<img src="https://cdn.it120.cc/apifactory/2019/04/12/e4520d8e4d67728f3a610e7e7d4029f3.png">
+  <img src="https://cdn.it120.cc/apifactory/2019/04/12/e4520d8e4d67728f3a610e7e7d4029f3.png">
 6. 修改本项目源码根目录下 config.js 文件， noodles 为您的专属域名
-  ```javascript
-  module.exports = {
-    version: "0.0.1",
-    note: '构建项目',
-    subDomain: "noodles"
-  }
-  ```
+    ```javascript
+    module.exports = {
+      version: "0.0.1",
+      note: '构建项目',
+      subDomain: "noodles"
+    }
+    ```
 7. [设置小程序合法服务器域名](https://www.it120.cc/info/faq/10469)
+   
 8. 重启您的小程序开发工具，完成
+   
 #### 参与贡献
 
 1. Fork 本仓库
