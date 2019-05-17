@@ -20,10 +20,13 @@
 #### 扫码体验
 <img src="https://cdn.it120.cc/apifactory/2019/03/29/9e30cfe31eabcd218eb9c434f17e9295.jpg" width="200px">
 
+#### QQ交流群
+
+973122103
 
 #### 使用说明
 
-1. 加入QQ群 973122103 免费获取 mock测试数据、接口、后台账号
+1. 关注微信服务号 "api工厂" ，回复 1709 获取您的专属后台
 2. 设置小程序名称 mallName
    <img src="https://cdn.it120.cc/apifactory/2019/04/12/0f472c5d8ecc3719a940cd052630499a.png">
 3. 上传 banner 轮播图片
