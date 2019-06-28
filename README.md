@@ -13,12 +13,19 @@
 
 - [接口 SDK](https://github.com/gooking/wxapi)
 
-- [免费后台](https://www.it120.cc/user)
+- [免费后台](https://admin.it120.cc)
 
 - [WeUI](https://github.com/Tencent/weui-wxss/)
 
 #### 扫码体验
 <img src="https://cdn.it120.cc/apifactory/2019/03/29/9e30cfe31eabcd218eb9c434f17e9295.jpg" width="200px">
+
+#### 其他开源模板
+
+| 舔果果小铺 | 天使童装 | AI名片 |
+| :------: | :------: | :------: |
+| <img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/06/28/a8304003-3218-4a47-95cf-84d82ebdc07b.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2018/12/18/c2324da4eea91602f385db5b523b13ca.jpg" width="200px"> | 
+| [开源地址](https://github.com/qindiandadudu/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
 
 #### QQ交流群
 
