@@ -39,7 +39,8 @@
 
 #### 使用说明
 
-1、 [api工厂](https://www.it120.cc/) 右上角注册免费开通您的专属后台
+1. [api工厂](https://www.it120.cc/) 右上角注册免费开通您的专属后台
+
 2. 设置小程序名称 mallName
    <img src="https://cdn.it120.cc/apifactory/2019/04/12/0f472c5d8ecc3719a940cd052630499a.png">
 3. 上传 banner 轮播图片
