@@ -27,13 +27,19 @@
 | <img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/06/28/a8304003-3218-4a47-95cf-84d82ebdc07b.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2018/12/18/c2324da4eea91602f385db5b523b13ca.jpg" width="200px"> | 
 | [开源地址](https://github.com/qindiandadudu/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
 
+## 联系作者
+
+| 微信好友 | 支付宝好友 |
+| :------: | :------: |
+| <img src="https://cdn.it120.cc/apifactory/2019/07/03/a86f7e46-1dbc-42fe-9495-65403659671e.jpeg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/07/03/fda59aeb-4943-4379-93bb-92856740bd6a.jpeg" width="200px"> |
+
 #### QQ交流群
 
 973122103
 
 #### 使用说明
 
-1. 关注微信服务号 "api工厂" ，回复 1709 获取您的专属后台
+1、 [api工厂](https://www.it120.cc/) 右上角注册免费开通您的专属后台
 2. 设置小程序名称 mallName
    <img src="https://cdn.it120.cc/apifactory/2019/04/12/0f472c5d8ecc3719a940cd052630499a.png">
 3. 上传 banner 轮播图片
