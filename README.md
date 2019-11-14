@@ -11,7 +11,7 @@
 
 本项目为小程序商城纯前端项目，由于人力和精力所限，本项目并未有开发配套的后台系统，而是直接使用了 [api 工厂](https://www.it120.cc/) 提供的免费接口和后台，可以完全满足本项目的所有功能需求。
 
-- [接口 SDK](https://github.com/gooking/wxapi)
+- [接口 SDK](https://github.com/gooking/apifm-wxapi)
 
 - [免费后台](https://admin.it120.cc)
 
@@ -25,7 +25,7 @@
 | 舔果果小铺 | 天使童装 | AI名片 |
 | :------: | :------: | :------: |
 | <img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/06/28/a8304003-3218-4a47-95cf-84d82ebdc07b.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2018/12/18/c2324da4eea91602f385db5b523b13ca.jpg" width="200px"> | 
-| [开源地址](https://github.com/qindiandadudu/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
+| [开源地址](https://github.com/walcer/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
 
 ## 联系作者
 
@@ -40,6 +40,10 @@
 #### 使用说明
 
 1. [api工厂](https://www.it120.cc/) 右上角注册免费开通您的专属后台
+
+    建议将上面扫码演示的小程序的测试数据一键克隆到你自己的后台，方便测试，调试完毕后，再在后台重新修改/发布数据
+    
+    > 登录后台，左侧菜单 “工厂设置” --> “数据克隆”， 选择 “将别人的数据克隆给我”，对方商户ID ，填写 13886 ，接口完成数据克隆
 
 2. 设置小程序名称 mallName
    <img src="https://cdn.it120.cc/apifactory/2019/04/12/0f472c5d8ecc3719a940cd052630499a.png">
@@ -60,7 +64,9 @@
     }
     ```
 
-7. [设置小程序合法服务器域名](https://www.it120.cc/info/faq/10469)
+    [《什么是专属域名？》](https://www.yuque.com/apifm/doc/qr6l4m)
+
+7. [设置小程序合法服务器域名](https://www.yuque.com/apifm/doc/tvpou9)
    
 8. 重启您的小程序开发工具，完成
    
