@@ -1,5 +1,11 @@
 # 面馆小程序
 
+## 推荐一个极好的餐饮点餐外卖的开源小程序
+
+- [github地址](https://github.com/woniudiancang/bee)
+
+- [码云地址](https://gitee.com/woniudiancang/bee)
+
 #### 介绍
 专为面馆打造的小程序，本项目是纯原生开发的小程序项目，没有使用第三方的开发框架，具有较高的研究学习价值。
 
@@ -18,20 +24,20 @@
 - [WeUI](https://github.com/Tencent/weui-wxss/)
 
 #### 扫码体验
-<img src="https://cdn.it120.cc/apifactory/2019/03/29/9e30cfe31eabcd218eb9c434f17e9295.jpg" width="200px">
+<img src="https://images.gitee.com/uploads/images/2020/0802/111712_a4250a24_44151.jpeg" width="200px">
 
 #### 其他开源模板
 
 | 舔果果小铺 | 天使童装 | AI名片 |
 | :------: | :------: | :------: |
-| <img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/06/28/a8304003-3218-4a47-95cf-84d82ebdc07b.jpg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2018/12/18/c2324da4eea91602f385db5b523b13ca.jpg" width="200px"> | 
+| <img src="https://images.gitee.com/uploads/images/2020/0802/111712_3642a10f_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_5659d9e2_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_b05ff175_44151.jpeg" width="200px"> | 
 | [开源地址](https://github.com/walcer/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
 
 ## 联系作者
 
 | 微信好友 | 支付宝好友 |
 | :------: | :------: |
-| <img src="https://cdn.it120.cc/apifactory/2019/07/03/a86f7e46-1dbc-42fe-9495-65403659671e.jpeg" width="200px"> | <img src="https://cdn.it120.cc/apifactory/2019/07/03/fda59aeb-4943-4379-93bb-92856740bd6a.jpeg" width="200px"> |
+| <img src="https://images.gitee.com/uploads/images/2020/0802/111712_679c77a2_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_97c8269b_44151.jpeg" width="200px"> |
 
 #### QQ交流群
 
@@ -46,13 +52,13 @@
     > 登录后台，左侧菜单 “工厂设置” --> “数据克隆”， 选择 “将别人的数据克隆给我”，对方商户ID ，填写 13886 ，接口完成数据克隆
 
 2. 设置小程序名称 mallName
-   <img src="https://cdn.it120.cc/apifactory/2019/04/12/0f472c5d8ecc3719a940cd052630499a.png">
+   <img src="https://images.gitee.com/uploads/images/2020/0802/111712_f9610be1_44151.png">
 3. 上传 banner 轮播图片
-   <img src="https://cdn.it120.cc/apifactory/2019/04/12/92ee8b39efea11c7a4b53d30480073d1.png">
+   <img src="https://images.gitee.com/uploads/images/2020/0802/111712_936d58d7_44151.png">
 4. 设置小程序 appid 和 secret
-   <img src="https://cdn.it120.cc/apifactory/2019/04/12/dcfd73bf82d6dc77aaedaa3b313ce5f5.png">
+   <img src="https://images.gitee.com/uploads/images/2020/0802/111713_2436e87e_44151.png">
 5. 数据维护
-   <img src="https://cdn.it120.cc/apifactory/2019/04/12/e4520d8e4d67728f3a610e7e7d4029f3.png">
+   <img src="https://images.gitee.com/uploads/images/2020/0802/111713_d4921518_44151.png">
 
 6. 修改本项目源码根目录下 config.js 文件， noodles 为您的专属域名
    
